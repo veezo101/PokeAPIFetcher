@@ -12,7 +12,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 Run Script\
-In this case, the output is displayed on the Terminal itself
+In this case, the output is displayed on the Terminal itself.
 ```bash
 python tmpuller.py
 ```
